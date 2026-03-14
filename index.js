@@ -1,6 +1,6 @@
 let firstCard = 10
-let secondCard = 7
-let sum = firstCard + secondCard + 4
+let secondCard = 11
+let sum = firstCard + secondCard + 5
 
 
 
@@ -12,3 +12,4 @@ if (sum <= 20) {
 } else {
     console.log("You're out of the game! 😭")
 }
+
